@@ -1,4 +1,4 @@
-# Python Pong Game using Turtle and Winsound
+# Python Pong Game
 
 This project presents a classic **Pong game** developed with **Python's Turtle** module and enhanced with the **Winsound module** for sound effects. 
 
